@@ -29,7 +29,6 @@ Many thanks to the Arduino and Teensy folks, and the authors of the PS2 library.
 
 Please let us know if you have any questions. 
 
-
-
+<br>This post is also at: <a  href="https://wordpress.com/post/sports4nerds.wordpress.com/">Wordpress</a>, <a href="http://sports4nerds.blogspot.com/">Google</a>, <a href="https://github.com/jpagliaccio/Terminal-J">GitHub</a>. 
 
 
