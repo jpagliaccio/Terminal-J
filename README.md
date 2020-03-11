@@ -1,5 +1,5 @@
 # Terminal-J
-Terminal J is an IBM Model M USB keyboard adapter that runs on Teensy 3.2 and includes with Arduino Source Code. <b>Every key is hackable. This is bold </b> 
+Terminal J is an IBM Model M USB keyboard adapter that runs on Teensy 3.2 and includes with Arduino Source Code. <b>Every key is hackable.  </b> 
 
 <img src="https://2.bp.blogspot.com/-LY9JpaJrnJA/WM1W8CC-ZLI/AAAAAAAAAP0/MSU54aBzmF4iKtMDwMeGUKd6TIhWpkXQQCLcB/s1600/ModelMConverter.png"> 
 
